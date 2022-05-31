@@ -1,0 +1,73 @@
+body {
+  font-family: Arial;
+  background-color: linear-gradient(to right top, #65dfc9, #6cdbeb)
+}
+
+#top {
+  color: #191970;
+  font-weight: bold;
+  font-size: 35px;
+  text-align: center;
+}
+
+#logo {
+  color: #2f4f4f;
+  font-size: 25px;
+  font-weight: bolder;
+  padding: 8px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+#navigation {
+  text-align: center;
+}
+
+#navigation a {
+  color: red;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+#navigation a:hover {
+  color: rgb(116, 109, 109);
+}
+
+#image {
+  text-align: center;
+  margin-top: 30px;
+}
+
+#image img {
+  width: 50%;
+}
+
+#main {
+  width: 800px;
+  margin: auto;
+}
+
+#about-us {
+  color: black;
+  margin-top: 30px;
+}
+
+#services {
+  color: black;
+}
+
+#contact {
+  color: black;
+}
+
+#why {
+  color: black;
+}
+
+#new {
+  text-align: right;
+  color: darkred;
+  margin-top: 0px;
+}
+
