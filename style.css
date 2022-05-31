@@ -3,14 +3,14 @@ body {
   background-color: linear-gradient(to right top, #65dfc9, #6cdbeb)
 }
 
-#top {
+.top {
   color: #191970;
   font-weight: bold;
   font-size: 35px;
   text-align: center;
 }
 
-#logo {
+.logo {
   color: #2f4f4f;
   font-size: 25px;
   font-weight: bolder;
@@ -19,53 +19,53 @@ body {
   text-align: center;
 }
 
-#navigation {
+.navigation {
   text-align: center;
 }
 
-#navigation a {
+.navigation a {
   color: red;
   margin-top: 10px;
   margin-left: 10px;
   margin-bottom: 10px;
 }
 
-#navigation a:hover {
+.navigation a:hover {
   color: rgb(116, 109, 109);
 }
 
-#image {
+.image {
   text-align: center;
   margin-top: 30px;
 }
 
-#image img {
+.image img {
   width: 50%;
 }
 
-#main {
+.main {
   width: 800px;
   margin: auto;
 }
 
-#about-us {
+.about-us {
   color: black;
   margin-top: 30px;
 }
 
-#services {
+.services {
   color: black;
 }
 
-#contact {
+.contact {
   color: black;
 }
 
-#why {
+.why {
   color: black;
 }
 
-#new {
+.new {
   text-align: right;
   color: darkred;
   margin-top: 0px;
