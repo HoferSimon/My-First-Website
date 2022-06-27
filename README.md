@@ -28,10 +28,6 @@ You you want Support or contact: E-Mail - simon.05hofer@gmail.com or Discord - ï
 
 
 
-----------------------------------------------------------------------------------------------------------------------------
-
-
-
 Link:
 
 https://hofersimon.github.io/My-First-Website/
